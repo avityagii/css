@@ -10,8 +10,7 @@ h1{
 
 # Universal Selectors
 
-Targets and styles all elements on a webpage
-Use Asterisk(\*) Method
+Targets and styles all elements on a webpage. Use Asterisk(\*) Method
 
 ```
 *{
@@ -22,8 +21,7 @@ Use Asterisk(\*) Method
 
 # id Property
 
-Assign a unique identifier to a singlr HTML element
-Use hash(#) method
+Assign a unique identifier to a singlr HTML element. Use hash(#) method
 
 ```
 <style>
@@ -38,8 +36,7 @@ Use hash(#) method
 
 # class Property
 
-Allows grouping of multiple HTML elements of style them collectively.
-Use dot(.) method
+Allows grouping of multiple HTML elements of style them collectively. Use dot(.) method
 
 ```
 <style>
