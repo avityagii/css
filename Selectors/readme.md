@@ -51,11 +51,11 @@ Allows grouping of multiple HTML elements of style them collectively. Use dot(.)
 
 # Group Selector
 
-Style multiple elements simultaneously. Seprates selectors with commas
+Style multiple elements simultaneously. Seprates selectors with commas(,)
 
 ```
 <style>
-  .heading{
+  h1 , p{
     color:blue
   }
 </style>
