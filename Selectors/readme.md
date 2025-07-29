@@ -48,3 +48,19 @@ Allows grouping of multiple HTML elements of style them collectively. Use dot(.)
   <div class="heading">Use class Property</div>
 </body>
 ```
+
+# Group Selector
+
+Style multiple elements simultaneously. Seprates selectors with commas
+
+```
+<style>
+  .heading{
+    color:blue
+  }
+</style>
+<body>
+  <h1>Group Selectors</h1>
+  <p>This is paragraph for group selectors</p>
+</body>
+```
